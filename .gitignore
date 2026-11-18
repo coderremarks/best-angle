@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# Never commit personal photos used for testing
+samples/
+*.jpg
+*.jpeg
+*.heic
+*.png
+!assets/*.png
